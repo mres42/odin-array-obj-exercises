@@ -6,4 +6,4 @@ let users = [ john, pete, mary ];
 
 let names = users.map((user) => user.name);
 
-alert( names ); // John, Pete, Mary
+alert( names );
